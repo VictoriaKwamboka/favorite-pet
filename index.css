@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color: maroon;
+    font-size: 30px;
+    text-align: center;
+}
+p{
+    color: black;
+    font-size: 15px;
+    line-height: 1.6;
+
+}
+em{
+    color: maroon;
+    font-weight: bold;
+}
+li{
+    line-height: 2.0;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
